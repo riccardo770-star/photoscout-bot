@@ -1,0 +1,1 @@
+# photoscout-bot
